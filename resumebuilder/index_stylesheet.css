@@ -1,0 +1,111 @@
+#main{
+	height:200%;
+	position:absolute;
+	width:90%;
+	margin:auto;
+	border:5px solid #C80000;
+	top:0px;
+	left:5%;
+}
+
+#header{
+	text-align:center;
+
+	
+}
+
+#resume_builder{
+	font-family:Georgia;
+	font-size:500%;
+	color:white;
+}
+
+#select_option{
+	height:8%;
+	width:100%;
+	position:absolute;
+	
+}
+
+#select_toggle{
+	width:80%;
+	position:absolute;
+	height:100%;
+	left:14%;
+	margin:1%;
+	
+}
+
+
+
+.toggle2{
+	width:10%;
+	height:80%;
+	
+	position:relative;
+	display:inline;
+	margin:auto;
+	float:left;
+	text-align:center;
+	
+	
+}
+.option{
+	color:black;
+	font-size:80%;
+	
+}
+
+.single{
+	top:5px;
+	
+}
+
+#footer{
+	color:white;
+
+	position:fixed;
+	top:90%;
+	height:10%;
+	width:90%;
+}
+
+#name{
+	
+	margin:auto;
+}
+
+#next{
+	float:right;
+}
+
+#content{
+	margin-top:10%;
+	margin-left:15%;
+}
+
+.labels{
+	margin-top:15px;
+}
+
+ #TemplateList input
+{
+	position: absolute;
+	margin-top: 320px;
+	width: 20px;
+	height: 20px;
+	margin-left: 100px;
+}
+
+#TemplateList img
+{
+	margin: 5%;
+	height: 300px;
+	width: 200px;
+	margin-bottom: 40px;
+	border: solid 1px #eee;
+}
+									
+fieldset {
+    border: 0;
+}
